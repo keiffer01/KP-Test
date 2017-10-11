@@ -1,2 +1,3 @@
 # KP-Test
-A repository for the FIRST Robotics 5736 team to muck around on.
+
+Hey! This is a README! This repository is used for the KPHS Robotics team to test and play around with. Have fun!
